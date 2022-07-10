@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Anhunghezo/clone-taildwindcss-coffeeStyle/issues"
   },
-  "homepage": "https://github.com/Anhunghezo/clone-taildwindcss-coffeeStyle#readme"
+  "homepage": "https://github.com/Anhunghezo/clone-taildwindcss-coffeeStyle#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.5"
+  }
 }
